@@ -1,0 +1,3 @@
+# Spelling Corrector - I
+
+The Spelling Corrector  is a Java program designed to help users check and correct spelling mistakes. It uses a HashMap to keep track of words and how often they appear, making it easy to suggest the most common words when a user types something incorrectly. Users can load words from a file into the program, which stores them in the HashMap. The class has methods to check if a word exists and to suggest similar words based on how close they are to the misspelled word and how frequently they are used. By organizing the suggestions using a TreeMap, the program can quickly find and show the best matches. This project is a great way for beginners to learn about data structures while creating a useful tool for spell checking!
